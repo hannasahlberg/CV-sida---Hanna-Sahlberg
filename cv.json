@@ -1,0 +1,47 @@
+{
+    "namn" : "Hanna Sahlberg",
+    "email" : "hannassahlberg@live.se",
+    "telefonnummer" : "0720181968",
+    "utbildningar": [
+        {
+            "utbildning" : "Estetiska programmet, musik",
+            "år": "2014-2017",
+            "stad": "Carlforsska gymnasiet, Västerås"
+        },
+        
+        {
+            "utbildning" : "Grafisk design och webbutveckling",
+            "år": "2023-2024",
+            "stad": "Högskolan Dalarna, Borlänge"
+        },
+        
+        {
+            "utbildning" : "Frontend utvecklare react",
+            "år": "2025-",
+            "stad": "Yrkeshögskolan Borås"
+        }
+
+    ],
+
+
+    "arbetsplatser": [
+        {
+            "arbetsplats" : "apotea.se",
+            "tid": "2017-2019",
+            "plats": "Morgongåva"
+        },
+        
+        {
+            "arbetsplats" : "babyland.se",
+            "tid": "2019-2024",
+            "plats": "Morgongåva"
+        }
+        
+
+    ]
+}
+
+
+
+
+

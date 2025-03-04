@@ -100,14 +100,15 @@ header{
     color: black;
 }
 
-h3{
-    display: flex;
-    justify-content: center;
-    padding: 9px;
-    width: 80%;
-    font-size: 25px;
-    font-weight: 400;
-    border-bottom: solid rgba(123, 191, 228, 0.7);
+
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgba(123, 191, 228, 0.9);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin-bottom: 50px;
 }
 
 .container{
