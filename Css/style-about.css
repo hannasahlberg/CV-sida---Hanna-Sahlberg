@@ -100,15 +100,23 @@ header{
     color: black;
 }
 
-
 button{
-    width: 100px;
+    width: 150px;
     height: 50px;
+    font-size: 17px;
     background-color: rgba(123, 191, 228, 0.9);
     border-radius: 10px;
     border: none;
     color: white;
     margin-bottom: 50px;
+    transition: transform 0.2s ease; 
+    box-shadow: 2px 3px 7px rgba(4, 57, 107, 0.3);
+}
+
+button:hover{
+    box-shadow: 2px 3px 7px rgba(4, 57, 107, 0.3);
+    transform: scale(1.04);
+    transition: transform 0.2s ease;  
 }
 
 .container{
